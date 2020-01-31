@@ -1,28 +1,24 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 김혜진
+subtitle: 개인 블로그
+description: 설명입니당
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Chloe
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: Web FrontEnd Developer
+url: "https://hyejin-1010.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: Hyejin
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    github: hyejin-1010
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: hyepago@gmail.com
 
 
 # 百度统计 
@@ -41,7 +37,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/hyejin-1010/hyejin-1010.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
@@ -58,13 +54,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: Home
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: Archive, description: archive, url: '/archive'}   
+    - {title: Tag, description: tags, url: '/tags'}      
+    - {title: About, description: about, url: '/about'}      
     
 
 # Pagination
