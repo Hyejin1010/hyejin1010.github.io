@@ -38,7 +38,11 @@ title: 나에 대하여
 <h3> 연락 방법 </h3>  
 
 <p> 
-email：hyepago@gmail.com
+<img src="../images/mail.png" class="icon" /> 
+<span>hyepago@gmail.com</span>
+<p>
+<img src="../images/phone.png" class="icon" /> 
+<span>010-4741-7138</span>
 <!--
 <p> 
  qq: 1499065178 -->
